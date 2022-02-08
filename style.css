@@ -1,0 +1,64 @@
+
+#canvasArea{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+   
+}
+.container{
+    position: relative;
+    border: 1px;
+    display:none;
+}
+#area{
+
+    min-width: 500px;
+    min-height: 417px;
+    margin-top: 170px;
+    margin-left: 481px;
+  
+}
+#colorSelecterParent{
+    position: relative;
+    text-align: -webkit-center;
+    margin-left: 442px;
+    margin-top: 15px;
+
+}
+h3{
+    position: relative;
+    text-align: -webkit-center;
+    color: blue;
+    font-size: x-large;
+}
+
+#learnButton{
+    position: relative;
+    text-align: -webkit-center;
+    color: #3614cc;
+    background-color: white;
+    border-radius: 10px;
+    min-width: 30px;
+}
+#writeArea{
+    
+    border: groove;
+    max-width: 900px;
+}
+
+#containerWritingArea{
+    position: relative;
+    margin-top: 20px;
+    text-align: -webkit-center;
+    display: none;
+
+}
+
+#getStartButtonPosition{
+    position: relative;
+    text-align: -webkit-center;
+    margin-top: 10px;
+}
+
+
+
